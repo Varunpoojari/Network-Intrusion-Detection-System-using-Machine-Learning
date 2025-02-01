@@ -165,7 +165,7 @@ This tool is for educational and testing purposes only. Users are responsible fo
 
 
 
-Project Link: [https://github.com/your-username/network-ids](https://github.com/Varunpoojari/network-ids)
+Project Link: [https://github.com/Varunpoojari/network-ids](https://github.com/Varunpoojari/network-ids)
 
 ## 🙏 Acknowledgments
 
